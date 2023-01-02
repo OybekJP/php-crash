@@ -53,3 +53,5 @@ $baroq = new Cat("Baroq", "cat", "Satoshi Nakamoto");
 echo $baroq->get_ownerName();//Satoshi Nakamoto
 echo $baroq->get_name();//Baroq
 echo $baroq->name;//error becaue name is private
+
+//testing
